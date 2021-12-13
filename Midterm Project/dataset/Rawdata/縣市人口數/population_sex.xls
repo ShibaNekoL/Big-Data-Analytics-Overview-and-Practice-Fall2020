@@ -1,0 +1,113 @@
+<meta http-equiv='Content-Type'; content='text/html';charset='utf-8'><style> .text { mso-number-format:\@;}  </style><style>
+td { border: 1px solid #DDDBDB; }
+.QueryData td { mso-number-format:"\#\,\#\#0"; }
+.F2 { mso-number-format:"\#\,\#\#0\.00"; }
+</style>
+<table>
+<tr><td>報表產製時間: 2020/12/11 01:06</td></tr>
+</table>
+<table class="QueryData" style="white-space: nowrap;">
+<tr>
+	<td>單位：人</td>
+	<td colspan='3' class='DataText'>現住人口數按性別及年齡分 - 統計值 (81年 ~ 108年)</td>
+</tr>
+<tr>
+	<td class='DataText'>縣市別</td>
+	<td colspan='3' class='DataText'>總計</td>
+</tr>
+<tr>
+	<td class='DataText'>年齡別</td>
+	<td colspan='3' class='DataText'>總計</td>
+</tr>
+<tr>
+	<td class='DataText'>性別</td>
+	<td colspan='1' class='DataText'>總計</td>
+	<td colspan='1' class='DataText'>　男</td>
+	<td colspan='1' class='DataText'>　女</td>
+</tr>
+<tr>
+	<td class='DataPeriod'>81年</td>
+<td>20,802,622</td><td>10,734,609</td><td>10,068,013</td></tr>
+<tr>
+	<td class='DataPeriod'>82年</td>
+<td>20,995,416</td><td>10,824,161</td><td>10,171,255</td></tr>
+<tr>
+	<td class='DataPeriod'>83年</td>
+<td>21,177,874</td><td>10,907,032</td><td>10,270,842</td></tr>
+<tr>
+	<td class='DataPeriod'>84年</td>
+<td>21,357,431</td><td>10,990,657</td><td>10,366,774</td></tr>
+<tr>
+	<td class='DataPeriod'>85年</td>
+<td>21,525,433</td><td>11,065,798</td><td>10,459,635</td></tr>
+<tr>
+	<td class='DataPeriod'>86年</td>
+<td>21,742,815</td><td>11,163,764</td><td>10,579,051</td></tr>
+<tr>
+	<td class='DataPeriod'>87年</td>
+<td>21,928,591</td><td>11,243,408</td><td>10,685,183</td></tr>
+<tr>
+	<td class='DataPeriod'>88年</td>
+<td>22,092,387</td><td>11,312,728</td><td>10,779,659</td></tr>
+<tr>
+	<td class='DataPeriod'>89年</td>
+<td>22,276,672</td><td>11,392,050</td><td>10,884,622</td></tr>
+<tr>
+	<td class='DataPeriod'>90年</td>
+<td>22,405,568</td><td>11,441,651</td><td>10,963,917</td></tr>
+<tr>
+	<td class='DataPeriod'>91年</td>
+<td>22,520,776</td><td>11,485,409</td><td>11,035,367</td></tr>
+<tr>
+	<td class='DataPeriod'>92年</td>
+<td>22,604,550</td><td>11,515,062</td><td>11,089,488</td></tr>
+<tr>
+	<td class='DataPeriod'>93年</td>
+<td>22,689,122</td><td>11,541,585</td><td>11,147,537</td></tr>
+<tr>
+	<td class='DataPeriod'>94年</td>
+<td>22,770,383</td><td>11,562,440</td><td>11,207,943</td></tr>
+<tr>
+	<td class='DataPeriod'>95年</td>
+<td>22,876,527</td><td>11,591,707</td><td>11,284,820</td></tr>
+<tr>
+	<td class='DataPeriod'>96年</td>
+<td>22,958,360</td><td>11,608,767</td><td>11,349,593</td></tr>
+<tr>
+	<td class='DataPeriod'>97年</td>
+<td>23,037,031</td><td>11,626,351</td><td>11,410,680</td></tr>
+<tr>
+	<td class='DataPeriod'>98年</td>
+<td>23,119,772</td><td>11,636,734</td><td>11,483,038</td></tr>
+<tr>
+	<td class='DataPeriod'>99年</td>
+<td>23,162,123</td><td>11,635,225</td><td>11,526,898</td></tr>
+<tr>
+	<td class='DataPeriod'>100年</td>
+<td>23,224,912</td><td>11,645,674</td><td>11,579,238</td></tr>
+<tr>
+	<td class='DataPeriod'>101年</td>
+<td>23,315,822</td><td>11,673,319</td><td>11,642,503</td></tr>
+<tr>
+	<td class='DataPeriod'>102年</td>
+<td>23,373,517</td><td>11,684,674</td><td>11,688,843</td></tr>
+<tr>
+	<td class='DataPeriod'>103年</td>
+<td>23,433,753</td><td>11,697,971</td><td>11,735,782</td></tr>
+<tr>
+	<td class='DataPeriod'>104年</td>
+<td>23,492,074</td><td>11,712,047</td><td>11,780,027</td></tr>
+<tr>
+	<td class='DataPeriod'>105年</td>
+<td>23,539,816</td><td>11,719,270</td><td>11,820,546</td></tr>
+<tr>
+	<td class='DataPeriod'>106年</td>
+<td>23,571,227</td><td>11,719,580</td><td>11,851,647</td></tr>
+<tr>
+	<td class='DataPeriod'>107年</td>
+<td>23,588,932</td><td>11,712,913</td><td>11,876,019</td></tr>
+<tr>
+	<td class='DataPeriod'>108年</td>
+<td>23,603,121</td><td>11,705,186</td><td>11,897,935</td></tr>
+</table>
+<br />

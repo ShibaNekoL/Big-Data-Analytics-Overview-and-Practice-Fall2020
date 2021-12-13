@@ -1,0 +1,66 @@
+<meta http-equiv='Content-Type'; content='text/html';charset='utf-8'><style> .text { mso-number-format:\@;}  </style><style>
+td { border: 1px solid #DDDBDB; }
+.QueryData td { mso-number-format:"\#\,\#\#0"; }
+.F2 { mso-number-format:"\#\,\#\#0\.00"; }
+</style>
+<table>
+<tr><td>報表產製時間: 2020/12/11 00:24</td></tr>
+</table>
+<table class="QueryData" style="white-space: nowrap;">
+<tr>
+	<td>單位：人</td>
+	<td colspan='24' class='DataText'>抗憂鬱藥物使用人數統計─按縣市別分 - 統計值 (101年 ~ 108年)</td>
+</tr>
+<tr>
+	<td class='DataText'>縣市別</td>
+	<td colspan='1' class='DataText'>總計</td>
+	<td colspan='1' class='DataText'>新北市</td>
+	<td colspan='1' class='DataText'>臺北市</td>
+	<td colspan='1' class='DataText'>桃園市</td>
+	<td colspan='1' class='DataText'>桃園縣</td>
+	<td colspan='1' class='DataText'>臺中市</td>
+	<td colspan='1' class='DataText'>臺南市</td>
+	<td colspan='1' class='DataText'>高雄市</td>
+	<td colspan='1' class='DataText'>宜蘭縣</td>
+	<td colspan='1' class='DataText'>新竹縣</td>
+	<td colspan='1' class='DataText'>苗栗縣</td>
+	<td colspan='1' class='DataText'>彰化縣</td>
+	<td colspan='1' class='DataText'>南投縣</td>
+	<td colspan='1' class='DataText'>雲林縣</td>
+	<td colspan='1' class='DataText'>嘉義縣</td>
+	<td colspan='1' class='DataText'>屏東縣</td>
+	<td colspan='1' class='DataText'>臺東縣</td>
+	<td colspan='1' class='DataText'>花蓮縣</td>
+	<td colspan='1' class='DataText'>澎湖縣</td>
+	<td colspan='1' class='DataText'>基隆市</td>
+	<td colspan='1' class='DataText'>新竹市</td>
+	<td colspan='1' class='DataText'>嘉義市</td>
+	<td colspan='1' class='DataText'>金門縣</td>
+	<td colspan='1' class='DataText'>連江縣</td>
+</tr>
+<tr>
+	<td class='DataPeriod'>101年</td>
+<td>983,490</td><td>123,969</td><td>170,434</td><td class='DataText'>-</td><td>87,382</td><td>132,436</td><td>81,366</td><td>133,684</td><td>23,405</td><td>14,506</td><td>18,362</td><td>51,754</td><td>22,053</td><td>28,342</td><td>19,062</td><td>27,671</td><td>9,580</td><td>18,080</td><td>3,111</td><td>15,616</td><td>21,503</td><td>27,733</td><td>1,669</td><td>271</td></tr>
+<tr>
+	<td class='DataPeriod'>102年</td>
+<td>1,141,151</td><td>149,543</td><td>189,812</td><td class='DataText'>-</td><td>96,952</td><td>155,555</td><td>90,622</td><td>153,468</td><td>25,915</td><td>16,381</td><td>21,185</td><td>62,699</td><td>25,647</td><td>36,928</td><td>20,940</td><td>31,876</td><td>11,608</td><td>21,238</td><td>4,415</td><td>18,239</td><td>25,209</td><td>35,308</td><td>1,655</td><td>186</td></tr>
+<tr>
+	<td class='DataPeriod'>103年</td>
+<td>1,165,942</td><td>156,688</td><td>193,908</td><td class='DataText'>-</td><td>98,836</td><td>157,842</td><td>93,783</td><td>156,103</td><td>25,583</td><td>16,984</td><td>21,486</td><td>63,561</td><td>25,666</td><td>37,355</td><td>20,831</td><td>32,178</td><td>11,948</td><td>22,012</td><td>4,326</td><td>17,778</td><td>25,632</td><td>36,000</td><td>1,446</td><td>162</td></tr>
+<tr>
+	<td class='DataPeriod'>104年</td>
+<td>1,194,395</td><td>159,606</td><td>197,384</td><td>102,508</td><td class='DataText'>-</td><td>161,434</td><td>96,807</td><td>160,433</td><td>25,035</td><td>17,383</td><td>20,944</td><td>65,307</td><td>26,693</td><td>37,318</td><td>20,942</td><td>33,789</td><td>12,733</td><td>22,384</td><td>4,457</td><td>19,377</td><td>24,674</td><td>38,377</td><td>1,468</td><td>165</td></tr>
+<tr>
+	<td class='DataPeriod'>105年</td>
+<td>1,212,659</td><td>162,989</td><td>199,466</td><td>104,821</td><td class='DataText'>-</td><td>163,980</td><td>99,810</td><td>162,037</td><td>24,991</td><td>18,271</td><td>20,863</td><td>67,485</td><td>26,339</td><td>36,936</td><td>20,465</td><td>32,723</td><td>11,925</td><td>21,948</td><td>4,544</td><td>19,793</td><td>25,666</td><td>39,833</td><td>1,427</td><td>187</td></tr>
+<tr>
+	<td class='DataPeriod'>106年</td>
+<td>1,273,561</td><td>173,431</td><td>206,280</td><td>113,749</td><td class='DataText'>-</td><td>171,964</td><td>105,166</td><td>172,618</td><td>26,572</td><td>19,321</td><td>21,787</td><td>70,788</td><td>27,097</td><td>38,704</td><td>21,414</td><td>33,385</td><td>11,344</td><td>22,531</td><td>4,978</td><td>20,849</td><td>26,645</td><td>40,838</td><td>1,356</td><td>209</td></tr>
+<tr>
+	<td class='DataPeriod'>107年</td>
+<td>1,330,204</td><td>181,146</td><td>217,632</td><td>119,837</td><td class='DataText'>-</td><td>179,930</td><td>110,830</td><td>182,302</td><td>27,254</td><td>20,147</td><td>22,422</td><td>72,725</td><td>28,124</td><td>39,942</td><td>20,978</td><td>35,020</td><td>10,979</td><td>22,737</td><td>5,068</td><td>21,215</td><td>28,544</td><td>42,009</td><td>1,456</td><td>231</td></tr>
+<tr>
+	<td class='DataPeriod'>108年</td>
+<td>1,397,197</td><td>191,679</td><td>226,235</td><td>127,487</td><td class='DataText'>-</td><td>189,392</td><td>116,502</td><td>189,604</td><td>27,610</td><td>23,912</td><td>23,078</td><td>76,513</td><td>29,086</td><td>41,631</td><td>21,623</td><td>37,781</td><td>11,903</td><td>23,847</td><td>5,209</td><td>21,986</td><td>31,258</td><td>43,466</td><td>1,793</td><td>235</td></tr>
+</table>
+<br />

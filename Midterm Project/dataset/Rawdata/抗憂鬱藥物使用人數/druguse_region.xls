@@ -1,0 +1,70 @@
+<meta http-equiv='Content-Type'; content='text/html';charset='utf-8'><style> .text { mso-number-format:\@;}  </style><style>
+td { border: 1px solid #DDDBDB; }
+.QueryData td { mso-number-format:"\#\,\#\#0"; }
+.F2 { mso-number-format:"\#\,\#\#0\.00"; }
+</style>
+<table>
+<tr><td>報表產製時間: 2020/12/11 00:23</td></tr>
+</table>
+<table class="QueryData" style="white-space: nowrap;">
+<tr>
+	<td>單位：人</td>
+	<td colspan='7' class='DataText'>抗憂鬱藥物使用人數統計─按業務組別分 - 統計值 (94年 ~ 108年)</td>
+</tr>
+<tr>
+	<td class='DataText'>業務組別</td>
+	<td colspan='1' class='DataText'>總計</td>
+	<td colspan='1' class='DataText'>　臺北業務組</td>
+	<td colspan='1' class='DataText'>　北區業務組</td>
+	<td colspan='1' class='DataText'>　中區業務組</td>
+	<td colspan='1' class='DataText'>　南區業務組</td>
+	<td colspan='1' class='DataText'>　高屏業務組</td>
+	<td colspan='1' class='DataText'>　東區業務組</td>
+</tr>
+<tr>
+	<td class='DataPeriod'>94年</td>
+<td>791,224</td><td>253,436</td><td>111,784</td><td>159,707</td><td>128,992</td><td>131,516</td><td>25,261</td></tr>
+<tr>
+	<td class='DataPeriod'>95年</td>
+<td>791,932</td><td>259,669</td><td>112,297</td><td>164,613</td><td>126,324</td><td>123,765</td><td>25,424</td></tr>
+<tr>
+	<td class='DataPeriod'>96年</td>
+<td>812,279</td><td>266,505</td><td>115,090</td><td>172,165</td><td>126,751</td><td>126,252</td><td>25,200</td></tr>
+<tr>
+	<td class='DataPeriod'>97年</td>
+<td>846,317</td><td>278,453</td><td>119,643</td><td>177,872</td><td>133,175</td><td>131,710</td><td>25,478</td></tr>
+<tr>
+	<td class='DataPeriod'>98年</td>
+<td>874,930</td><td>289,098</td><td>122,150</td><td>182,961</td><td>138,013</td><td>137,166</td><td>26,009</td></tr>
+<tr>
+	<td class='DataPeriod'>99年</td>
+<td>903,569</td><td>298,280</td><td>126,380</td><td>185,931</td><td>142,743</td><td>144,643</td><td>26,186</td></tr>
+<tr>
+	<td class='DataPeriod'>100年</td>
+<td>944,278</td><td>314,177</td><td>131,807</td><td>193,349</td><td>147,011</td><td>152,533</td><td>26,941</td></tr>
+<tr>
+	<td class='DataPeriod'>101年</td>
+<td>983,490</td><td>322,399</td><td>138,959</td><td>202,257</td><td>152,702</td><td>162,062</td><td>27,409</td></tr>
+<tr>
+	<td class='DataPeriod'>102年</td>
+<td>1,141,151</td><td>371,160</td><td>156,670</td><td>239,460</td><td>179,258</td><td>187,068</td><td>32,565</td></tr>
+<tr>
+	<td class='DataPeriod'>103年</td>
+<td>1,165,942</td><td>380,967</td><td>159,867</td><td>242,684</td><td>183,500</td><td>189,958</td><td>33,708</td></tr>
+<tr>
+	<td class='DataPeriod'>104年</td>
+<td>1,194,395</td><td>388,105</td><td>162,634</td><td>249,068</td><td>188,982</td><td>195,940</td><td>34,869</td></tr>
+<tr>
+	<td class='DataPeriod'>105年</td>
+<td>1,212,659</td><td>394,253</td><td>166,647</td><td>253,679</td><td>192,703</td><td>196,740</td><td>33,646</td></tr>
+<tr>
+	<td class='DataPeriod'>106年</td>
+<td>1,273,561</td><td>413,365</td><td>178,371</td><td>265,414</td><td>201,673</td><td>208,240</td><td>33,625</td></tr>
+<tr>
+	<td class='DataPeriod'>107年</td>
+<td>1,330,204</td><td>432,782</td><td>187,704</td><td>276,106</td><td>209,198</td><td>219,484</td><td>33,513</td></tr>
+<tr>
+	<td class='DataPeriod'>108年</td>
+<td>1,397,197</td><td>452,657</td><td>201,897</td><td>290,115</td><td>218,332</td><td>229,576</td><td>35,518</td></tr>
+</table>
+<br />

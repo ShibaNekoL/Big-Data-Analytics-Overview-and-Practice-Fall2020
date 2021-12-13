@@ -1,0 +1,66 @@
+<meta http-equiv='Content-Type'; content='text/html';charset='utf-8'><style> .text { mso-number-format:\@;}  </style><style>
+td { border: 1px solid #DDDBDB; }
+.QueryData td { mso-number-format:"\#\,\#\#0"; }
+.F2 { mso-number-format:"\#\,\#\#0\.00"; }
+</style>
+<table>
+<tr><td>報表產製時間: 2020/12/11 00:19</td></tr>
+</table>
+<table class="QueryData" style="white-space: nowrap;">
+<tr>
+	<td>單位：人</td>
+	<td colspan='3' class='DataText'>抗憂鬱藥物使用人數統計─按性別分 - 統計值 (94年 ~ 108年)</td>
+</tr>
+<tr>
+	<td class='DataText'>性別</td>
+	<td colspan='1' class='DataText'>總計</td>
+	<td colspan='1' class='DataText'>　男</td>
+	<td colspan='1' class='DataText'>　女</td>
+</tr>
+<tr>
+	<td class='DataPeriod'>94年</td>
+<td>791,224</td><td>338,709</td><td>452,515</td></tr>
+<tr>
+	<td class='DataPeriod'>95年</td>
+<td>791,932</td><td>337,890</td><td>454,042</td></tr>
+<tr>
+	<td class='DataPeriod'>96年</td>
+<td>812,279</td><td>342,728</td><td>469,551</td></tr>
+<tr>
+	<td class='DataPeriod'>97年</td>
+<td>846,317</td><td>356,255</td><td>490,062</td></tr>
+<tr>
+	<td class='DataPeriod'>98年</td>
+<td>874,930</td><td>366,268</td><td>508,662</td></tr>
+<tr>
+	<td class='DataPeriod'>99年</td>
+<td>903,569</td><td>380,373</td><td>523,196</td></tr>
+<tr>
+	<td class='DataPeriod'>100年</td>
+<td>944,278</td><td>396,991</td><td>547,287</td></tr>
+<tr>
+	<td class='DataPeriod'>101年</td>
+<td>983,490</td><td>414,498</td><td>568,992</td></tr>
+<tr>
+	<td class='DataPeriod'>102年</td>
+<td>1,141,151</td><td>474,018</td><td>667,133</td></tr>
+<tr>
+	<td class='DataPeriod'>103年</td>
+<td>1,165,942</td><td>484,237</td><td>681,705</td></tr>
+<tr>
+	<td class='DataPeriod'>104年</td>
+<td>1,194,395</td><td>494,473</td><td>699,922</td></tr>
+<tr>
+	<td class='DataPeriod'>105年</td>
+<td>1,212,659</td><td>500,503</td><td>712,156</td></tr>
+<tr>
+	<td class='DataPeriod'>106年</td>
+<td>1,273,561</td><td>524,146</td><td>749,415</td></tr>
+<tr>
+	<td class='DataPeriod'>107年</td>
+<td>1,330,204</td><td>542,825</td><td>787,379</td></tr>
+<tr>
+	<td class='DataPeriod'>108年</td>
+<td>1,397,197</td><td>565,222</td><td>831,975</td></tr>
+</table>
+<br />

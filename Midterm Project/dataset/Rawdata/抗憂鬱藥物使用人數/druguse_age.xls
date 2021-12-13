@@ -1,0 +1,69 @@
+<meta http-equiv='Content-Type'; content='text/html';charset='utf-8'><style> .text { mso-number-format:\@;}  </style><style>
+td { border: 1px solid #DDDBDB; }
+.QueryData td { mso-number-format:"\#\,\#\#0"; }
+.F2 { mso-number-format:"\#\,\#\#0\.00"; }
+</style>
+<table>
+<tr><td>報表產製時間: 2020/12/11 00:22</td></tr>
+</table>
+<table class="QueryData" style="white-space: nowrap;">
+<tr>
+	<td>單位：人</td>
+	<td colspan='6' class='DataText'>抗憂鬱藥物使用人數統計─按年齡別分 - 統計值 (94年 ~ 108年)</td>
+</tr>
+<tr>
+	<td class='DataText'>年齡別</td>
+	<td colspan='1' class='DataText'>總計</td>
+	<td colspan='1' class='DataText'>　30歲以下</td>
+	<td colspan='1' class='DataText'>　31-40歲</td>
+	<td colspan='1' class='DataText'>　41-50歲</td>
+	<td colspan='1' class='DataText'>　51-65歲</td>
+	<td colspan='1' class='DataText'>　65歲以上</td>
+</tr>
+<tr>
+	<td class='DataPeriod'>94年</td>
+<td>791,224</td><td>124,063</td><td>114,808</td><td>149,683</td><td>194,363</td><td>208,307</td></tr>
+<tr>
+	<td class='DataPeriod'>95年</td>
+<td>791,932</td><td>113,421</td><td>111,495</td><td>150,628</td><td>200,548</td><td>215,840</td></tr>
+<tr>
+	<td class='DataPeriod'>96年</td>
+<td>812,279</td><td>109,130</td><td>113,153</td><td>154,526</td><td>211,550</td><td>223,920</td></tr>
+<tr>
+	<td class='DataPeriod'>97年</td>
+<td>846,317</td><td>108,671</td><td>117,094</td><td>161,438</td><td>224,681</td><td>234,477</td></tr>
+<tr>
+	<td class='DataPeriod'>98年</td>
+<td>874,930</td><td>106,507</td><td>119,162</td><td>166,298</td><td>238,197</td><td>244,766</td></tr>
+<tr>
+	<td class='DataPeriod'>99年</td>
+<td>903,569</td><td>105,857</td><td>122,219</td><td>168,769</td><td>252,601</td><td>254,123</td></tr>
+<tr>
+	<td class='DataPeriod'>100年</td>
+<td>944,278</td><td>106,414</td><td>127,272</td><td>174,303</td><td>273,113</td><td>263,176</td></tr>
+<tr>
+	<td class='DataPeriod'>101年</td>
+<td>983,490</td><td>103,904</td><td>131,864</td><td>179,791</td><td>294,600</td><td>273,331</td></tr>
+<tr>
+	<td class='DataPeriod'>102年</td>
+<td>1,141,151</td><td>112,469</td><td>151,952</td><td>204,405</td><td>355,838</td><td>316,487</td></tr>
+<tr>
+	<td class='DataPeriod'>103年</td>
+<td>1,165,942</td><td>113,325</td><td>154,987</td><td>203,144</td><td>366,462</td><td>328,024</td></tr>
+<tr>
+	<td class='DataPeriod'>104年</td>
+<td>1,194,395</td><td>115,740</td><td>157,364</td><td>203,075</td><td>376,098</td><td>342,118</td></tr>
+<tr>
+	<td class='DataPeriod'>105年</td>
+<td>1,212,659</td><td>118,186</td><td>156,341</td><td>201,624</td><td>382,557</td><td>353,951</td></tr>
+<tr>
+	<td class='DataPeriod'>106年</td>
+<td>1,273,561</td><td>127,508</td><td>158,838</td><td>210,426</td><td>398,506</td><td>378,283</td></tr>
+<tr>
+	<td class='DataPeriod'>107年</td>
+<td>1,330,204</td><td>143,024</td><td>159,344</td><td>215,587</td><td>409,989</td><td>402,260</td></tr>
+<tr>
+	<td class='DataPeriod'>108年</td>
+<td>1,397,197</td><td>162,402</td><td>163,451</td><td>222,640</td><td>421,768</td><td>426,936</td></tr>
+</table>
+<br />

@@ -1,0 +1,83 @@
+<meta http-equiv='Content-Type'; content='text/html';charset='utf-8'><style> .text { mso-number-format:\@;}  </style><style>
+td { border: 1px solid #DDDBDB; }
+.QueryData td { mso-number-format:"\#\,\#\#0\.00_ "; }
+.F2 { mso-number-format:"\#\,\#\#0\.00"; }
+</style>
+<table>
+<tr><td>報表產製時間: 2020/12/11 00:51</td></tr>
+</table>
+<table class="QueryData" style="white-space: nowrap;">
+<tr>
+	<td>單位：%</td>
+	<td colspan='8' class='DataText'>家庭組織型態（單人、夫妻、單親、核心、祖孫、三代、其他）-百分比 - 統計值 (90年 ~ 108年)</td>
+</tr>
+<tr>
+	<td class='DataText'>家庭組織型態</td>
+	<td colspan='1' class='DataText'>總計</td>
+	<td colspan='1' class='DataText'>　單人</td>
+	<td colspan='1' class='DataText'>　夫婦</td>
+	<td colspan='1' class='DataText'>　單親</td>
+	<td colspan='1' class='DataText'>　核心</td>
+	<td colspan='1' class='DataText'>　祖孫</td>
+	<td colspan='1' class='DataText'>　三代</td>
+	<td colspan='1' class='DataText'>　其他</td>
+</tr>
+<tr>
+	<td class='DataPeriod'>90年</td>
+<td>100.00</td><td>10.73</td><td>13.03</td><td>7.73</td><td>47.12</td><td>1.12</td><td>15.48</td><td>4.80</td></tr>
+<tr>
+	<td class='DataPeriod'>91年</td>
+<td>100.00</td><td>8.51</td><td>12.88</td><td>8.09</td><td>47.74</td><td>1.29</td><td>16.33</td><td>5.17</td></tr>
+<tr>
+	<td class='DataPeriod'>92年</td>
+<td>100.00</td><td>9.27</td><td>14.28</td><td>8.24</td><td>46.74</td><td>1.08</td><td>15.17</td><td>5.23</td></tr>
+<tr>
+	<td class='DataPeriod'>93年</td>
+<td>100.00</td><td>9.94</td><td>14.17</td><td>7.74</td><td>46.69</td><td>1.15</td><td>15.21</td><td>5.09</td></tr>
+<tr>
+	<td class='DataPeriod'>94年</td>
+<td>100.00</td><td>9.92</td><td>15.98</td><td>8.60</td><td>44.46</td><td>1.29</td><td>14.26</td><td>5.49</td></tr>
+<tr>
+	<td class='DataPeriod'>95年</td>
+<td>100.00</td><td>10.54</td><td>15.03</td><td>8.63</td><td>44.66</td><td>1.10</td><td>14.58</td><td>5.46</td></tr>
+<tr>
+	<td class='DataPeriod'>96年</td>
+<td>100.00</td><td>9.60</td><td>15.91</td><td>9.47</td><td>43.16</td><td>1.32</td><td>14.66</td><td>5.87</td></tr>
+<tr>
+	<td class='DataPeriod'>97年</td>
+<td>100.00</td><td>10.76</td><td>15.44</td><td>9.59</td><td>42.77</td><td>1.15</td><td>14.76</td><td>5.52</td></tr>
+<tr>
+	<td class='DataPeriod'>98年</td>
+<td>100.00</td><td>10.54</td><td>16.11</td><td>9.78</td><td>41.47</td><td>1.07</td><td>15.23</td><td>5.80</td></tr>
+<tr>
+	<td class='DataPeriod'>99年</td>
+<td>100.00</td><td>11.21</td><td>15.97</td><td>9.82</td><td>41.73</td><td>1.13</td><td>13.60</td><td>6.53</td></tr>
+<tr>
+	<td class='DataPeriod'>100年</td>
+<td>100.00</td><td>10.12</td><td>17.05</td><td>9.31</td><td>40.19</td><td>1.23</td><td>15.13</td><td>6.97</td></tr>
+<tr>
+	<td class='DataPeriod'>101年</td>
+<td>100.00</td><td>11.02</td><td>16.77</td><td>9.76</td><td>38.98</td><td>1.28</td><td>14.77</td><td>7.42</td></tr>
+<tr>
+	<td class='DataPeriod'>102年</td>
+<td>100.00</td><td>11.08</td><td>16.85</td><td>9.55</td><td>37.91</td><td>1.27</td><td>15.24</td><td>8.09</td></tr>
+<tr>
+	<td class='DataPeriod'>103年</td>
+<td>100.00</td><td>11.85</td><td>17.93</td><td>9.67</td><td>37.34</td><td>1.10</td><td>14.05</td><td>8.06</td></tr>
+<tr>
+	<td class='DataPeriod'>104年</td>
+<td>100.00</td><td>11.82</td><td>19.06</td><td>10.32</td><td>35.48</td><td>1.20</td><td>14.27</td><td>7.85</td></tr>
+<tr>
+	<td class='DataPeriod'>105年</td>
+<td>100.00</td><td>12.09</td><td>18.98</td><td>10.09</td><td>35.96</td><td>1.13</td><td>13.83</td><td>7.91</td></tr>
+<tr>
+	<td class='DataPeriod'>106年</td>
+<td>100.00</td><td>12.11</td><td>18.70</td><td>10.04</td><td>35.71</td><td>1.11</td><td>13.78</td><td>8.56</td></tr>
+<tr>
+	<td class='DataPeriod'>107年</td>
+<td>100.00</td><td>12.81</td><td>18.77</td><td>9.61</td><td>34.68</td><td>1.32</td><td>14.02</td><td>8.78</td></tr>
+<tr>
+	<td class='DataPeriod'>108年</td>
+<td>100.00</td><td>12.26</td><td>19.29</td><td>10.21</td><td>34.44</td><td>1.12</td><td>13.45</td><td>9.22</td></tr>
+</table>
+<br />
